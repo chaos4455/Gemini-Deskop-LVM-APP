@@ -11,6 +11,8 @@
 **Análise técnica de gráficos financeiros turbinada por Inteligência Artificial diretamente no seu Desktop!** ✨
 ![Gemini-2 0-1920x1080](https://github.com/user-attachments/assets/fdcd2fb5-e98e-4f78-b1d4-f8cde2c48441)
 
+![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
+
 
 Este aplicativo de desktop, construído com Python e PyQt5, utiliza o poder da API Google Gemini (especificamente seus modelos Vision) para realizar análises técnicas aprofundadas em imagens de gráficos financeiros (ações, criptomoedas, etc.). Arraste e solte suas imagens, escolha o modelo Gemini desejado e receba uma análise detalhada focada em *price action*, padrões, tendências e mais, formatada em Markdown e salva automaticamente junto com as imagens originais.
 
